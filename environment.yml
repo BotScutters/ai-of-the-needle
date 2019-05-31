@@ -12,7 +12,7 @@ dependencies:
   - pandas
   - pip
   - python
-  - pyviz=
+  - pyviz
   - requests
   - scikit-learn
   - scipy
