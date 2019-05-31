@@ -7,18 +7,15 @@ dependencies:
   - boto3
   - ipykernel
   - ipython
-  - ipython_genutils
-  - jupyter_client
-  - jupyter_core
   - matplotlib-base
   - numpy
   - pandas
   - pip
-  - python=3.7.3
+  - python
   - pyviz=
   - requests
   - scikit-learn
-  - scipy=1.3.0
+  - scipy
   - seaborn
 prefix: /anaconda3/envs/project5
 
