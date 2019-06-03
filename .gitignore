@@ -5,3 +5,6 @@ notebooks/.ipynb_checkpoints*
 data/imgs/
 data/test/
 *.ipynb*
+data/interim/_*
+data/interim/int_imgs/
+models/vgg16_weights.h5
