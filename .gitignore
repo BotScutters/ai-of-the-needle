@@ -8,3 +8,5 @@ data/test/
 data/interim/_*
 data/interim/int_imgs/
 models/vgg16_weights.h5
+reports/figures/*
+models/logs/*
